@@ -1,2 +1,2 @@
 # Rent-A-Car-Management-System
-A basic project with C# & SQL SERVER
+A basic project written in C# & SQL SERVER
